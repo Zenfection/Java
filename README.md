@@ -29,3 +29,7 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
                 ➡ [Bài 7. Điều kiện](https://github.com/Zenfection/Java/blob/master/Java%20Basic/7.Dieukien.md)
 
                 ➡ [Bài 8. Vòng lặp](https://github.com/Zenfection/Java/blob/master/Java%20Basic/8.Vonglap.md)
+
+                ➡ [Bài 9. Chuỗi](https://github.com/Zenfection/Java/blob/master/Java%20Basic/9.Chuoi.md)
+
+                ➡ [Bài 10. Mảng](https://github.com/Zenfection/Java/blob/master/Java%20Basic/10.Mang.md)
