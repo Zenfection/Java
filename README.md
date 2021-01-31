@@ -23,3 +23,7 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
                 ➡ [Bài 4. Biến](https://github.com/Zenfection/Java/blob/master/Java%20Basic/4.Bien.md)
 
                 ➡ [Bài 5. Kiểu dữ liệu](https://github.com/Zenfection/Java/blob/master/Java%20Basic/5.Kieudulieu.md)
+
+                ➡ [Bài 6. Toán tử](https://github.com/Zenfection/Java/blob/master/Java%20Basic/6.ToanTu.md)
+
+                ➡ [Bài 7. Điều kiện](https://github.com/Zenfection/Java/blob/master/Java%20Basic/7.Dieukien.md)
