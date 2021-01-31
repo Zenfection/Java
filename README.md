@@ -33,3 +33,5 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
                 ➡ [Bài 9. Chuỗi](https://github.com/Zenfection/Java/blob/master/Java%20Basic/9.Chuoi.md)
 
                 ➡ [Bài 10. Mảng](https://github.com/Zenfection/Java/blob/master/Java%20Basic/10.Mang.md)
+
+                ➡ [Bài 11. Math Methods](https://github.com/Zenfection/Java/blob/master/Java%20Basic/11.Math.md)
