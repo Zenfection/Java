@@ -39,3 +39,5 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
                 ➡ [Bài 12.Java Methods](https://github.com/Zenfection/Java/blob/master/Java%20Basic/12.Methods.md)
 
 ### ——![oop_logo.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/02/01-13-51-01-oop_logo.png) Java OOP
+
+                ➡ [Bài 1.Java OOP](https://github.com/Zenfection/Java/blob/master/Java%20OOP/1.OOP.md)
