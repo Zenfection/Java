@@ -43,3 +43,5 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
                 ➡ [Bài 1.Java OOP](https://github.com/Zenfection/Java/blob/master/Java%20OOP/1.OOP.md)
 
                 ➡ [Bài 2.Phạm vi truy cập](https://github.com/Zenfection/Java/blob/master/Java%20OOP/2.Modifier.md)
+
+                ➡ [Bài 3.Package và Tính đóng gói](https://github.com/Zenfection/Java/blob/master/Java%20OOP/2.Modifier.md)
