@@ -72,3 +72,52 @@ class Main{
 ---
 
 ## 2. Interface
+
+`Interfect` là một bản thiết kế cho `abstract class`, được sử dụng để nhóm các `methods` với phần `body` trống : 
+
+```java
+//interface
+interface Animal{
+    public void animalSound();//không có body => gọi là interface methods =
+    public void run();//không có body => gọi là interface method
+}
+```
+
+
+
+```java
+interface Animal{
+    public void animalSound();
+    public void run();
+}
+
+class Cat implements Animal{
+    public void animalSound(){
+        System.out.println("Con mèo kêu : mèo méo meo");
+    }
+}
+
+class Main{
+    public static void main(String[] args){
+        Cat myCat = new Cat();
+        myCat.animalSound();
+        myCat.sleep();
+    }
+}
+/* Con mèo kêu mèo méo meo
+   Zzz, khò khò  */
+```
+
+> 🧨 Tính chất của `Interface` : 
+> 
+> - Các `Interface methods` không có phần `body`, được cung cấp bởi lớp `implement`
+> - Về việc dùng `Interface`, bạn phải ghi đè lại tất cả `methods`
+> - Mặc định thì `Interface methods` là `abstract` và `public`
+> - Mặc định thì `Interface attributes` là `public`, `static`, `final`
+> 
+> 
+> 
+> ⚠️ Các lưu ý sau : 
+> 
+> - Giống như `abstract class`, `interface` không sử dụng để tạo `Object`
+> - Một `Interface` không thể chứa `constructor`
