@@ -83,7 +83,7 @@ interface Animal{
 }
 ```
 
-
+> 🔥 Để truy cập vào `Interface Methods` ta phải dùng từ khoá `implements` (*thay vì sử dụng `extends`*) như sau : 
 
 ```java
 interface Animal{
@@ -121,3 +121,19 @@ class Main{
 > 
 > - Giống như `abstract class`, `interface` không sử dụng để tạo `Object`
 > - Một `Interface` không thể chứa `constructor`
+
+
+
+### ![Language Learningpng](https://raw.githubusercontent.com/Zenfection/Image/master/2021/02/02-14-14-12-Language%20Learning.png) Tại sao ta phải sử dụng `Interface` ?
+
+<details>
+<summary><b><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/02/01-13-25-05-Questions%20And%20Answers.png"> Trả lời</summary>
+
+<br>
+
+- Để được sử bảo mật an toàn.
+- `Java` không hỗ trợ `multiple inheritance` (*đa kế thừa*) - tức là một `class` có thể kế thừa từ một `subclass` ==> Tuy nhiên ta có thể làm được điều đó bằng cách sử dụng `Interface`
+
+> Đơn giản hơn là khi bạn vào nhà hàng, người ta sẽ đưa cho bạn cái menu chọn món, chứ không ai lại dẫn bạn vào nhà bếp coi món nào để chọn ==> `Interface` là cái menu đó.
+
+</details>
