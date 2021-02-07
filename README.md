@@ -47,3 +47,5 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
                 ➡ [Bài 3.Package và Tính đóng gói](https://github.com/Zenfection/Java/blob/master/Java%20OOP/3.Pkg%26Encapsulation.md)
 
                 ➡ [Bài 4.Tính kế thừa và Đa hình](https://github.com/Zenfection/Java/blob/master/Java%20OOP/4.Inheritance%26Polymorphism.md)
+
+                ➡ [Bài 5.Tính trừu tượng và Interface](https://github.com/Zenfection/Java/blob/master/Java%20OOP/5.Abstract%26Interface.md)
