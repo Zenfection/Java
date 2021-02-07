@@ -66,5 +66,9 @@ class Main{
 </details>
 
 > 🚀 Ta sử dụng tính `Abstract` (*trừu tượng*) để : 
+> 
 > - Bảo đảm tính **bảo mật** (*ẩn các chi tiết quan trọng và chỉ hiển thị thứ cần thiết*) 
-> - 
+
+---
+
+## 2. Interface
