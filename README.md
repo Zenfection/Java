@@ -53,3 +53,5 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
 ### ——![Brain Training.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/02/07-15-45-10-Brain%20Training.png) Java Advanced
 
                 ➡ [Bài 1.Enums](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/1.Enums.md)
+
+                ➡ [Bài 2.Inputs](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/2.Inputs.md)
