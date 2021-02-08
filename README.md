@@ -51,3 +51,5 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
                 ➡ [Bài 5.Tính trừu tượng và Interface](https://github.com/Zenfection/Java/blob/master/Java%20OOP/5.Abstract%26Interface.md)
 
 ### ——![Brain Training.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/02/07-15-45-10-Brain%20Training.png) Java Advanced
+
+                ➡ [Bài 1.Enums](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/1.Enums.md)
