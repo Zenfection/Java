@@ -55,3 +55,7 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
                 ➡ [Bài 1.Enums](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/1.Enums.md)
 
                 ➡ [Bài 2.Inputs](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/2.Inputs.md)
+
+                ➡ [Bài 3.Date](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/3.Date.md)
+
+                ➡ [Bài 2.ArrayList và LinkedList](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/4.ArrayList&LinkedList.md)
