@@ -61,3 +61,7 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
                 ➡ [Bài 4.ArrayList](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/4.ArrayList.md)
 
                 ➡ [Bài 5.LinkedList](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/5.LinkedList.md)
+
+                ➡ [Bài 6.HashMap](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/6.HashMap.md)
+
+                ➡ [Bài 7.HashSet](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/7.HashSet.md)
