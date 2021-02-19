@@ -67,3 +67,15 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
                 ➡ [Bài 7.HashSet](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/7.HashSet.md)
 
                 ➡ [Bài 8.Iterator](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/8.Iterator.md)
+
+                ➡ [Bài 9.Wrapper Class](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/9.WrapperClases.md)
+
+                ➡ [Bài 10.Exceptions](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/10.Exceptions.md)
+
+                ➡ [Bài 11.RegEx](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/11.RegEx.md)
+
+                ➡ [Bài 12.Threads](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/12.Threads.md)
+
+                ➡ [Bài 13.Lambda](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/13.Lambda.md)
+
+                ➡ [Bài 14.File Handling](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/14.File%20Handling.md)
