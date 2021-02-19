@@ -65,3 +65,5 @@ Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giá
                 ➡ [Bài 6.HashMap](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/6.HashMap.md)
 
                 ➡ [Bài 7.HashSet](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/7.HashSet.md)
+
+                ➡ [Bài 8.Iterator](https://github.com/Zenfection/Java/blob/master/Java%20Advaced/8.Iterator.md)
