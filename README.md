@@ -1,12 +1,12 @@
 # ![icons8-java.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/01/29-09-23-26-icons8-java.png) Java for Kid
 
-## 🌀Xin chào các bạn đây, mình tên là Zenfection gọi tắt là Zen đây là một Series Java của mình🌀
+## 🌀Xin chào các bạn,mình tên là Zenfection gọi tắt là Zen đây là một Series Java của mình🌀
 
 #### Mình có đôi lời muốn nói sau đây:
 
-| Tác giả  | Phóng tác  | Năm viết |
-| -------- | ---------- | -------- |
-| W3school | Zenfection | 2021     |
+| Tác giả                                                                                                                                                                                                                     | Phóng tác                                                                                                                                             | Năm viết |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
+| ![15548dee143968fb4dabbc71016811d6icon  01png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/02/22-21-46-55-15548dee143968fb4dabbc71016811d6_icon%20-%2001.png) [W3school](https://www.w3schools.com/java) | ![zencat.png](https://raw.githubusercontent.com/Zenfection/Image/master/2021/02/22-21-50-29-zencat.png) [Zenfection](https://facebook.com/zenfection) | 2021     |
 
 Như các bạn đã thấy, toàn bộ tài liệu ở đây được theo giáo trình của `W3School`, mình là người phóng tác lại nó cho nó ngắn gọn hơn, chủ yếu là tối ưu nó hơn, dĩ nhiên mình sẽ thêm khá nhiều thứ vào đó. Chúc bạn học tập tốt nhé và sau đây là:
 
